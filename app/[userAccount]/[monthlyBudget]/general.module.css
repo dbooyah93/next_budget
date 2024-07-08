@@ -1,0 +1,31 @@
+.monthlyBudget > p, .monthlyBudget > a {
+    font-size: 20px;
+}
+
+.mainContent {
+    margin: 0 36px;
+}
+
+.userName {
+    display: block;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.monthlyBudget > a {
+    font-weight: 600;
+}
+
+.monthList {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+slect.monthName {
+    cursor: pointer;
+}
+
+.monthName {
+    display: inline;
+}
